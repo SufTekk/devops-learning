@@ -2,3 +2,10 @@
 *.pem
 *.key
 .env
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
